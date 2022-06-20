@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iA8dLfxF+G/EY0aqmxrZa29wc4jvYrZ/JaKNBFeMHP1zOS8U/cZNi6K87lxmVTvyYoRXxFv6zJmip0rEKEPAjw==",
+  "success": true,
+  "projectFilePath": "/Users/radhikadhanpal/Documents/CSE210/cse210-student-developer-csharp/unit04-greed/unit04-greed.csproj",
+  "expectedPackageFiles": [
+    "/Users/radhikadhanpal/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/radhikadhanpal/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
